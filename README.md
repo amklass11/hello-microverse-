@@ -4,7 +4,7 @@ Learning basic Git/GitHub/GitHub Flow.
 # Built With
 HTML
 CSS
-Getting Started
+# Getting Started
 This is my first project in Microverse. It's is aimed at learing basic Git/GitHub/GitHub Flow
 
 # Authors
@@ -12,8 +12,8 @@ This is my first project in Microverse. It's is aimed at learing basic Git/GitHu
 
 GitHub: @amklass11
 LinkedIn: Amk lass
-🤝 Contributing
-# Contributions, issues, and feature requests are welcome!
+# 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
