@@ -1,0 +1,22 @@
+{
+  "name": "hello-microverse-",
+  "version": "1.0.0",
+  "description": "GIT BASED MICROVERSE PROJECT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amklass11/hello-microverse-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amklass11/hello-microverse-/issues"
+  },
+  "homepage": "https://github.com/amklass11/hello-microverse-#readme",
+  "dependencies": {
+    "html-linter": "^1.1.1"
+  }
+}
