@@ -1,7 +1,5 @@
 # Project Name
-Learning basic Git/GitHub/GitHub Flow. screenshot
-
-Additional description about the project and its features.
+Learning basic Git/GitHub/GitHub Flow.
 
 # Built With
 HTML
@@ -15,11 +13,11 @@ This is my first project in Microverse. It's is aimed at learing basic Git/GitHu
 GitHub: @amklass11
 LinkedIn: Amk lass
 🤝 Contributing
-#Contributions, issues, and feature requests are welcome!
+# Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
-#Show your support
+# Show your support
 Give a ⭐️ if you like this project! and cheers✨
 
  # Acknowledgments
